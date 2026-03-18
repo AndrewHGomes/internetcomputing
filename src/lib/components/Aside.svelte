@@ -120,7 +120,7 @@
       nome: "Segurança Digital",
       aulas: [
         { nome: "Aula 1", link: `${base}/segurancadigital/aula1` },
-        // { nome: "Aula 2", link: `${base}/segurancadigital/aula2` },
+        { nome: "Aula 2", link: `${base}/segurancadigital/aula2` },
         // { nome: "Aula 3", link: `${base}/segurancadigital/aula3` },
         // { nome: "Aula 4", link: `${base}/segurancadigital/aula4` },
         // { nome: "Aula 5", link: `${base}/segurancadigital/aula5` },
