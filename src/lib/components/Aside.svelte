@@ -127,6 +127,17 @@
         { nome: "Aula 6", link: `${base}/segurancadigital/aula6` },
       ],
     },
+    {
+      nome: "Desenvolvimento de Sistemas",
+      aulas: [
+        { nome: "Aula 1", link: `${base}/desenvolvimentosistemas/aula1` },
+        { nome: "Aula 2", link: `${base}/desenvolvimentosistemas/aula2` },
+        { nome: "Aula 3", link: `${base}/desenvolvimentosistemas/aula3` },
+        { nome: "Aula 4", link: `${base}/desenvolvimentosistemas/aula4` },
+        { nome: "Aula 5", link: `${base}/desenvolvimentosistemas/aula5` },
+        { nome: "Aula 6", link: `${base}/desenvolvimentosistemas/aula6` },
+      ],
+    },
   ];
 
   let moduloAtivo = $state(null);
