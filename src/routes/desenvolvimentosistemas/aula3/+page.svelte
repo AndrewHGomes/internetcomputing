@@ -2,7 +2,7 @@
   import Audios from "$lib/components/Audios.svelte";
 </script>
 
-<h2>Introdução e Conceitos Iniciais</h2>
+<h2>Análise Estruturada</h2>
 
 <Audios modulo="M12" aulas={["09", "10", "11", "12"]} />
 
