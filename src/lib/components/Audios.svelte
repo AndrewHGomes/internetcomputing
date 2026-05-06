@@ -25,17 +25,17 @@
     display: flex;
     align-items: center;
     gap: 0.5em;
-    background: rgba(0, 0, 170, 0.03);
+    background: #f7f7fc;
     padding: 5px 10px;
     border-radius: 5px;
     border: 1px solid #ddd;
-    box-shadow: 0 0 10px 2px rgba(0, 0, 0, 0.05);
+    box-shadow: 0 0 8px 2px rgba(0, 0, 0, 0.05);
   }
 
   .item span {
     font-size: 0.9rem;
     font-weight: bold;
-    color: #aaa;
+    color: #bbb;
     font-family: sans-serif;
   }
 

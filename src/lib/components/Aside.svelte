@@ -138,6 +138,17 @@
         { nome: "Aula 6", link: `${base}/desenvolvimentosistemas/aula6` },
       ],
     },
+    {
+      nome: "Negócios Digitais",
+      aulas: [
+        { nome: "Aula 1", link: `${base}/negociosdigitais/aula1` },
+        { nome: "Aula 2", link: `${base}/negociosdigitais/aula2` },
+        { nome: "Aula 3", link: `${base}/negociosdigitais/aula3` },
+        { nome: "Aula 4", link: `${base}/negociosdigitais/aula4` },
+        { nome: "Aula 5", link: `${base}/negociosdigitais/aula5` },
+        { nome: "Aula 6", link: `${base}/negociosdigitais/aula6` },
+      ],
+    },
   ];
 
   let moduloAtivo = $state(null);
@@ -177,7 +188,7 @@
     height: 100vh;
     overflow-y: auto;
     scrollbar-width: none;
-    background-color: #333;
+    background-color: #444;
     flex: 0 0 280px;
     display: flex;
     flex-direction: column;
@@ -189,7 +200,7 @@
     flex-shrink: 0;
     background-color: transparent;
     width: 100%;
-    padding: 0.9em 0.5em;
+    padding: 0.8em 0.5em;
     font-size: 1em;
     text-decoration: none;
     text-align: start;
@@ -205,7 +216,7 @@
   aside button:hover,
   aside div a:hover {
     background-color: #fff;
-    color: #333;
+    color: #444;
   }
 
   aside div {
@@ -217,7 +228,7 @@
   }
 
   aside div a {
-    padding: 0.3em 1em;
+    padding: 0.5em 1em;
     text-decoration: none;
     color: #ccc;
     transition: all 0.3s ease;

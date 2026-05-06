@@ -31,7 +31,7 @@
   :global(body) {
     height: 100vh;
     width: 100%;
-    color: #333;
+    color: #444;
     display: flex;
   }
 </style>
