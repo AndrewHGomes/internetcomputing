@@ -29,7 +29,7 @@
   }
 
   :global(body) {
-    height: 100vh;
+    height: 100dvh;
     width: 100%;
     color: #444;
     display: flex;

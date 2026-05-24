@@ -227,10 +227,11 @@
 
 <style>
   aside {
-    height: 100vh;
+    height: 100dvh;
+    max-height: 100dvh;
+    padding: 0.5rem 0;
     overflow-y: auto;
     overflow-x: hidden;
-    scrollbar-width: none;
     background-color: #444;
     flex: 0 0 280px;
     display: flex;
@@ -279,9 +280,12 @@
 
   @media (max-width: 700px) {
     aside {
+      height: 100dvh;
+      max-height: 100dvh;
       position: fixed;
       top: 0;
       left: 0;
+      bottom: 0;
       width: 285px;
       z-index: 999;
       flex: none;

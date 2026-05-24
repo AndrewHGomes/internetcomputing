@@ -18,7 +18,7 @@
 <style>
   main {
     flex: 1;
-    height: 100vh;
+    height: 100dvh;
     overflow-y: auto;
     overflow-x: hidden;
     padding: 1.5em 1em;
