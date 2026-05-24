@@ -4,7 +4,7 @@
 
 <h2>Globalização e o Novo Cenário de Negócios</h2>
 
-<Audios modulo="M13" aulas={["05", "06", "07", "08"]} />
+<Audios modulo="M17" aulas={["05", "06", "07", "08"]} />
 
 <p>
   A globalização é um processo contínuo de integração econômica, política e

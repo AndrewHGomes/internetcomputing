@@ -4,7 +4,7 @@
 
 <h2>Estratégia e Informação nas Organizações</h2>
 
-<Audios modulo="M3" aulas={["17", "18", "19", "20"]} />
+<Audios modulo="M12" aulas={["17", "18", "19", "20"]} />
 
 <p>
   A estratégia organizacional é a ferramenta que permite às empresas saírem de

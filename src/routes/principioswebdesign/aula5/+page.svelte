@@ -4,7 +4,7 @@
 
 <h2>Evolução do Web Design e Multitelas</h2>
 
-<Audios modulo="M6" aulas={["17", "18", "19", "20"]} />
+<Audios modulo="M5" aulas={["17", "18", "19", "20"]} />
 
 <p>
   Diferente da década de 1990, quando o conteúdo era planejado para resoluções

@@ -4,7 +4,7 @@
 
 <h2>Marketing 4.0 e a Evolução do Marketing</h2>
 
-<Audios modulo="M13" aulas={["13", "14", "15", "16"]} />
+<Audios modulo="M17" aulas={["13", "14", "15", "16"]} />
 
 <p>
   A <strong>transformação digital</strong> é o processo de mudança estrutural no

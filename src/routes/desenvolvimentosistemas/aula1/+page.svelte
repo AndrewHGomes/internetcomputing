@@ -4,7 +4,7 @@
 
 <h2>Fundamentos e Planejamento de Sistemas</h2>
 
-<Audios modulo="M12" aulas={["01", "02", "03", "04"]} />
+<Audios modulo="M10" aulas={["01", "02", "03", "04"]} />
 
 <p>
   O desenvolvimento de sistemas de informação exige um planejamento rigoroso e

@@ -4,7 +4,7 @@
 
 <h2>Plataformas Multiusuários</h2>
 
-<Audios modulo="M10" aulas={["17", "18", "19", "20"]} />
+<Audios modulo="M8" aulas={["17", "18", "19", "20"]} />
 
 <p>
   As plataformas multiusuários permitem que diversos indivíduos acessem e

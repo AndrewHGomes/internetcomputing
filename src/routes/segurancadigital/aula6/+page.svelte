@@ -4,7 +4,7 @@
 
 <h2>Continuidade da Segurança e Análise de Vulnerabilidades</h2>
 
-<Audios modulo="M11" aulas={["21", "22", "23", "24"]} />
+<Audios modulo="M16" aulas={["21", "22", "23", "24"]} />
 
 <p>
   A segurança digital não é um estado estático, mas um <strong

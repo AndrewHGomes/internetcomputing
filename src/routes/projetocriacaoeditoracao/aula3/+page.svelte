@@ -4,7 +4,7 @@
 
 <h2>Produção de Vídeos: O Roteiro</h2>
 
-<Audios modulo="M5" aulas={["09", "10", "11", "12"]} />
+<Audios modulo="M6" aulas={["09", "10", "11", "12"]} />
 
 <p>
   O roteiro é a base de qualquer produção audiovisual, desde vídeos para redes

@@ -4,7 +4,7 @@
 
 <h2>Introdução ao Comércio Eletrônico</h2>
 
-<Audios modulo="M13" aulas={["09", "10", "11", "12"]} />
+<Audios modulo="M17" aulas={["09", "10", "11", "12"]} />
 
 <p>
   O cenário atual dos negócios é marcado pela transição para o ambiente digital,

@@ -4,7 +4,7 @@
 
 <h2>Revisão de Etapas Anteriores</h2>
 
-<Audios modulo="M8" aulas={["13", "14", "15", "16"]} />
+<Audios modulo="M11" aulas={["13", "14", "15", "16"]} />
 
 <p>
   O ciclo de desenvolvimento inicia com o entendimento e modelagem dos <strong>

@@ -4,7 +4,7 @@
 
 <h2>Inteligência do Negócio</h2>
 
-<Audios modulo="M2" aulas={["21", "22", "23", "24"]} />
+<Audios modulo="M14" aulas={["21", "22", "23", "24"]} />
 
 <p>
   A <strong>gestão da informação</strong> é um processo dinâmico e contínuo,

@@ -4,7 +4,7 @@
 
 <h2>Introdução à Gestão do Conhecimento</h2>
 
-<Audios modulo="M2" aulas={["13", "14", "15", "16"]} />
+<Audios modulo="M14" aulas={["13", "14", "15", "16"]} />
 
 <p>
   A <strong>Gestão da Informação</strong> é um processo dinâmico e contínuo, composto

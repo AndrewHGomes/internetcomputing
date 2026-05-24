@@ -4,7 +4,7 @@
 
 <h2>Evolução e Integração de Sistemas</h2>
 
-<Audios modulo="M12" aulas={["05", "06", "07", "08"]} />
+<Audios modulo="M10" aulas={["05", "06", "07", "08"]} />
 
 <p>
   O cenário atual dos sistemas de informação é marcado pela integração entre

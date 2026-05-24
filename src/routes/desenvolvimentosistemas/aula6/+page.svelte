@@ -4,7 +4,7 @@
 
 <h2>Estrutura e Modelagem de Sistemas</h2>
 
-<Audios modulo="M12" aulas={["21", "22", "23", "24"]} />
+<Audios modulo="M10" aulas={["21", "22", "23", "24"]} />
 
 <p>
   A modelagem de sistemas utiliza <strong>modelos gráficos e diagramas</strong> para

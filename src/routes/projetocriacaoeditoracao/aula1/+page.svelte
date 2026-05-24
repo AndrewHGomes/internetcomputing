@@ -4,7 +4,7 @@
 
 <h2>Fundamentos do Projeto Web</h2>
 
-<Audios modulo="M5" aulas={["01", "02", "03", "04"]} />
+<Audios modulo="M6" aulas={["01", "02", "03", "04"]} />
 
 <p>
   O objetivo central de um website é <strong>informar</strong>. Embora a

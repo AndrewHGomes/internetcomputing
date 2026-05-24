@@ -4,7 +4,7 @@
 
 <h2>Redes Sociais e Negócios Eletrônicos</h2>
 
-<Audios modulo="M13" aulas={["21", "22", "23", "24"]} />
+<Audios modulo="M17" aulas={["21", "22", "23", "24"]} />
 
 <p>
   As redes sociais tornaram-se ferramentas poderosas que influenciam diretamente

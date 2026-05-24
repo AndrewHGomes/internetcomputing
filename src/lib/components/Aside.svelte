@@ -5,7 +5,7 @@
 
   const modulos = [
     {
-      nome: "Introdução ao Curso",
+      nome: "1. Introdução ao Curso",
       aulas: [
         { nome: "Aula 1", link: `${base}/introducao/aula1` },
         { nome: "Aula 2", link: `${base}/introducao/aula2` },
@@ -16,30 +16,29 @@
       ],
     },
     {
-      nome: "Gestão da Informação",
+      nome: "2. Lógica de Programação e Algoritmos",
       aulas: [
-        { nome: "Aula 1", link: `${base}/gestaoinformacao/aula1` },
-        { nome: "Aula 2", link: `${base}/gestaoinformacao/aula2` },
-        { nome: "Aula 3", link: `${base}/gestaoinformacao/aula3` },
-        { nome: "Aula 4", link: `${base}/gestaoinformacao/aula4` },
-        { nome: "Aula 5", link: `${base}/gestaoinformacao/aula5` },
-        { nome: "Aula 6", link: `${base}/gestaoinformacao/aula6` },
+        { nome: "Aula 1", link: `${base}/logicaprogramacaoalgoritmos/aula1` },
+        { nome: "Aula 2", link: `${base}/logicaprogramacaoalgoritmos/aula2` },
+        { nome: "Aula 3", link: `${base}/logicaprogramacaoalgoritmos/aula3` },
+        { nome: "Aula 4", link: `${base}/logicaprogramacaoalgoritmos/aula4` },
+        { nome: "Aula 5", link: `${base}/logicaprogramacaoalgoritmos/aula5` },
+        { nome: "Aula 6", link: `${base}/logicaprogramacaoalgoritmos/aula6` },
       ],
     },
     {
-      nome: "Administração e Sistemas",
+      nome: "3. Linguagens de Programação",
       aulas: [
-        { nome: "Aula 1", link: `${base}/administracaosistemas/aula1` },
-        { nome: "Aula 2", link: `${base}/administracaosistemas/aula2` },
-        { nome: "Aula 3", link: `${base}/administracaosistemas/aula3` },
-        { nome: "Aula 4", link: `${base}/administracaosistemas/aula4` },
-        { nome: "Aula 5", link: `${base}/administracaosistemas/aula5` },
-        { nome: "Aula 6", link: `${base}/administracaosistemas/aula6` },
+        { nome: "Aula 1", link: `${base}/linguagensprogramacao/aula1` },
+        { nome: "Aula 2", link: `${base}/linguagensprogramacao/aula2` },
+        { nome: "Aula 3", link: `${base}/linguagensprogramacao/aula3` },
+        { nome: "Aula 4", link: `${base}/linguagensprogramacao/aula4` },
+        { nome: "Aula 5", link: `${base}/linguagensprogramacao/aula5` },
+        { nome: "Aula 6", link: `${base}/linguagensprogramacao/aula6` },
       ],
     },
-
     {
-      nome: "Interface Web",
+      nome: "4. Interface Web",
       aulas: [
         { nome: "Aula 1", link: `${base}/interfaceweb/aula1` },
         { nome: "Aula 2", link: `${base}/interfaceweb/aula2` },
@@ -50,18 +49,7 @@
       ],
     },
     {
-      nome: "Projeto Web, Criação e Editoração",
-      aulas: [
-        { nome: "Aula 1", link: `${base}/projetocriacaoeditoracao/aula1` },
-        { nome: "Aula 2", link: `${base}/projetocriacaoeditoracao/aula2` },
-        { nome: "Aula 3", link: `${base}/projetocriacaoeditoracao/aula3` },
-        { nome: "Aula 4", link: `${base}/projetocriacaoeditoracao/aula4` },
-        { nome: "Aula 5", link: `${base}/projetocriacaoeditoracao/aula5` },
-        { nome: "Aula 6", link: `${base}/projetocriacaoeditoracao/aula6` },
-      ],
-    },
-    {
-      nome: "Princípios de Web Design",
+      nome: "5. Princípios de Web Design",
       aulas: [
         { nome: "Aula 1", link: `${base}/principioswebdesign/aula1` },
         { nome: "Aula 2", link: `${base}/principioswebdesign/aula2` },
@@ -72,7 +60,18 @@
       ],
     },
     {
-      nome: "Identidade Visual e Animação",
+      nome: "6. Projeto Web, Criação e Editoração",
+      aulas: [
+        { nome: "Aula 1", link: `${base}/projetocriacaoeditoracao/aula1` },
+        { nome: "Aula 2", link: `${base}/projetocriacaoeditoracao/aula2` },
+        { nome: "Aula 3", link: `${base}/projetocriacaoeditoracao/aula3` },
+        { nome: "Aula 4", link: `${base}/projetocriacaoeditoracao/aula4` },
+        { nome: "Aula 5", link: `${base}/projetocriacaoeditoracao/aula5` },
+        { nome: "Aula 6", link: `${base}/projetocriacaoeditoracao/aula6` },
+      ],
+    },
+    {
+      nome: "7. Identidade Visual e Animação",
       aulas: [
         { nome: "Aula 1", link: `${base}/identidadevisualanimacao/aula1` },
         { nome: "Aula 2", link: `${base}/identidadevisualanimacao/aula2` },
@@ -82,31 +81,8 @@
         { nome: "Aula 6", link: `${base}/identidadevisualanimacao/aula6` },
       ],
     },
-
     {
-      nome: "Modelagem de Sistemas Web",
-      aulas: [
-        { nome: "Aula 1", link: `${base}/modelagemsistemasweb/aula1` },
-        { nome: "Aula 2", link: `${base}/modelagemsistemasweb/aula2` },
-        { nome: "Aula 3", link: `${base}/modelagemsistemasweb/aula3` },
-        { nome: "Aula 4", link: `${base}/modelagemsistemasweb/aula4` },
-        { nome: "Aula 5", link: `${base}/modelagemsistemasweb/aula5` },
-        { nome: "Aula 6", link: `${base}/modelagemsistemasweb/aula6` },
-      ],
-    },
-    {
-      nome: "Desenvolvimento Mobile",
-      aulas: [
-        { nome: "Aula 1", link: `${base}/desenvolvimentomobile/aula1` },
-        { nome: "Aula 2", link: `${base}/desenvolvimentomobile/aula2` },
-        { nome: "Aula 3", link: `${base}/desenvolvimentomobile/aula3` },
-        { nome: "Aula 4", link: `${base}/desenvolvimentomobile/aula4` },
-        { nome: "Aula 5", link: `${base}/desenvolvimentomobile/aula5` },
-        { nome: "Aula 6", link: `${base}/desenvolvimentomobile/aula6` },
-      ],
-    },
-    {
-      nome: "Plataformas Web",
+      nome: "8. Plataformas Web",
       aulas: [
         { nome: "Aula 1", link: `${base}/plataformasweb/aula1` },
         { nome: "Aula 2", link: `${base}/plataformasweb/aula2` },
@@ -117,18 +93,18 @@
       ],
     },
     {
-      nome: "Segurança Digital",
+      nome: "9. Estrutura de Bancos de Dados",
       aulas: [
-        { nome: "Aula 1", link: `${base}/segurancadigital/aula1` },
-        { nome: "Aula 2", link: `${base}/segurancadigital/aula2` },
-        { nome: "Aula 3", link: `${base}/segurancadigital/aula3` },
-        { nome: "Aula 4", link: `${base}/segurancadigital/aula4` },
-        { nome: "Aula 5", link: `${base}/segurancadigital/aula5` },
-        { nome: "Aula 6", link: `${base}/segurancadigital/aula6` },
+        { nome: "Aula 1", link: `${base}/estruturabancosdados/aula1` },
+        { nome: "Aula 2", link: `${base}/estruturabancosdados/aula2` },
+        { nome: "Aula 3", link: `${base}/estruturabancosdados/aula3` },
+        { nome: "Aula 4", link: `${base}/estruturabancosdados/aula4` },
+        { nome: "Aula 5", link: `${base}/estruturabancosdados/aula5` },
+        { nome: "Aula 6", link: `${base}/estruturabancosdados/aula6` },
       ],
     },
     {
-      nome: "Desenvolvimento de Sistemas",
+      nome: "10. Desenvolvimento de Sistemas",
       aulas: [
         { nome: "Aula 1", link: `${base}/desenvolvimentosistemas/aula1` },
         { nome: "Aula 2", link: `${base}/desenvolvimentosistemas/aula2` },
@@ -139,7 +115,73 @@
       ],
     },
     {
-      nome: "Negócios Digitais",
+      nome: "11. Modelagem de Sistemas Web",
+      aulas: [
+        { nome: "Aula 1", link: `${base}/modelagemsistemasweb/aula1` },
+        { nome: "Aula 2", link: `${base}/modelagemsistemasweb/aula2` },
+        { nome: "Aula 3", link: `${base}/modelagemsistemasweb/aula3` },
+        { nome: "Aula 4", link: `${base}/modelagemsistemasweb/aula4` },
+        { nome: "Aula 5", link: `${base}/modelagemsistemasweb/aula5` },
+        { nome: "Aula 6", link: `${base}/modelagemsistemasweb/aula6` },
+      ],
+    },
+    {
+      nome: "12. Administração e Sistemas",
+      aulas: [
+        { nome: "Aula 1", link: `${base}/administracaosistemas/aula1` },
+        { nome: "Aula 2", link: `${base}/administracaosistemas/aula2` },
+        { nome: "Aula 3", link: `${base}/administracaosistemas/aula3` },
+        { nome: "Aula 4", link: `${base}/administracaosistemas/aula4` },
+        { nome: "Aula 5", link: `${base}/administracaosistemas/aula5` },
+        { nome: "Aula 6", link: `${base}/administracaosistemas/aula6` },
+      ],
+    },
+    {
+      nome: "13. Sistemas e Mapeamento de Processos",
+      aulas: [
+        { nome: "Aula 1", link: `${base}/sistemasmapaeamentoprocessos/aula1` },
+        { nome: "Aula 2", link: `${base}/sistemasmapaeamentoprocessos/aula2` },
+        { nome: "Aula 3", link: `${base}/sistemasmapaeamentoprocessos/aula3` },
+        { nome: "Aula 4", link: `${base}/sistemasmapaeamentoprocessos/aula4` },
+        { nome: "Aula 5", link: `${base}/sistemasmapaeamentoprocessos/aula5` },
+        { nome: "Aula 6", link: `${base}/sistemasmapaeamentoprocessos/aula6` },
+      ],
+    },
+    {
+      nome: "14. Gestão da Informação",
+      aulas: [
+        { nome: "Aula 1", link: `${base}/gestaoinformacao/aula1` },
+        { nome: "Aula 2", link: `${base}/gestaoinformacao/aula2` },
+        { nome: "Aula 3", link: `${base}/gestaoinformacao/aula3` },
+        { nome: "Aula 4", link: `${base}/gestaoinformacao/aula4` },
+        { nome: "Aula 5", link: `${base}/gestaoinformacao/aula5` },
+        { nome: "Aula 6", link: `${base}/gestaoinformacao/aula6` },
+      ],
+    },
+    {
+      nome: "15. Desenvolvimento Mobile",
+      aulas: [
+        { nome: "Aula 1", link: `${base}/desenvolvimentomobile/aula1` },
+        { nome: "Aula 2", link: `${base}/desenvolvimentomobile/aula2` },
+        { nome: "Aula 3", link: `${base}/desenvolvimentomobile/aula3` },
+        { nome: "Aula 4", link: `${base}/desenvolvimentomobile/aula4` },
+        { nome: "Aula 5", link: `${base}/desenvolvimentomobile/aula5` },
+        { nome: "Aula 6", link: `${base}/desenvolvimentomobile/aula6` },
+      ],
+    },
+    {
+      nome: "16. Segurança Digital",
+      aulas: [
+        { nome: "Aula 1", link: `${base}/segurancadigital/aula1` },
+        { nome: "Aula 2", link: `${base}/segurancadigital/aula2` },
+        { nome: "Aula 3", link: `${base}/segurancadigital/aula3` },
+        { nome: "Aula 4", link: `${base}/segurancadigital/aula4` },
+        { nome: "Aula 5", link: `${base}/segurancadigital/aula5` },
+        { nome: "Aula 6", link: `${base}/segurancadigital/aula6` },
+      ],
+    },
+    {
+      nome: "17. Negócios Digitais e Comércio Eletrônico",
       aulas: [
         { nome: "Aula 1", link: `${base}/negociosdigitais/aula1` },
         { nome: "Aula 2", link: `${base}/negociosdigitais/aula2` },

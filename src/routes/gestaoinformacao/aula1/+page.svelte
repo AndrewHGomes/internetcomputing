@@ -4,7 +4,7 @@
 
 <h2>Introdução à Gestão da Informação e do Conhecimento</h2>
 
-<Audios modulo="M2" aulas={["01", "02", "03", "04"]} />
+<Audios modulo="M14" aulas={["01", "02", "03", "04"]} />
 
 <p>
   Atualmente, a <strong>informação</strong> é consolidada como o principal ativo

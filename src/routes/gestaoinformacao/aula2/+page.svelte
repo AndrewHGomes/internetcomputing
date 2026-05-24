@@ -4,7 +4,7 @@
 
 <h2>Sistemas de Informação</h2>
 
-<Audios modulo="M2" aulas={["05", "06", "07", "08"]} />
+<Audios modulo="M14" aulas={["05", "06", "07", "08"]} />
 
 <p>
   A transição da <strong>Sociedade da Informação</strong> para a

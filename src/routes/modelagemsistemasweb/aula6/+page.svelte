@@ -4,7 +4,7 @@
 
 <h2>Introdução à Modelagem UML Complementar</h2>
 
-<Audios modulo="M8" aulas={["21", "22", "23", "24"]} />
+<Audios modulo="M11" aulas={["21", "22", "23", "24"]} />
 
 <p>
   A modelagem de um sistema de software exige diferentes perspectivas para

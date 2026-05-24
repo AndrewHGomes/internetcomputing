@@ -4,7 +4,7 @@
 
 <h2>Produção de Ambientes Web</h2>
 
-<Audios modulo="M6" aulas={["01", "02", "03", "04"]} />
+<Audios modulo="M5" aulas={["01", "02", "03", "04"]} />
 
 <p>
   A criação de sites e portais exige a integração entre <strong

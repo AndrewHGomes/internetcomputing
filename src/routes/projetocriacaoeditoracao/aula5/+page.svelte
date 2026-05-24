@@ -4,7 +4,7 @@
 
 <h2>A Importância do Audiovisual e da Edição</h2>
 
-<Audios modulo="M5" aulas={["17", "18", "19", "20"]} />
+<Audios modulo="M6" aulas={["17", "18", "19", "20"]} />
 
 <p>
   O audiovisual é uma das formas mais eficazes de comunicação à distância,

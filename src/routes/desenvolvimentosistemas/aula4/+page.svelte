@@ -4,7 +4,7 @@
 
 <h2>Análise Essencial: Conceito e Fundamentos</h2>
 
-<Audios modulo="M12" aulas={["13", "14", "15", "16"]} />
+<Audios modulo="M10" aulas={["13", "14", "15", "16"]} />
 
 <p>
   A <strong>Análise Essencial</strong> é um conjunto de técnicas voltado para a

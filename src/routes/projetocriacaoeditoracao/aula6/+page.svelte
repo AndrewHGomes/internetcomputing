@@ -4,7 +4,7 @@
 
 <h2>Introdução à Montagem de Sites e WordPress</h2>
 
-<Audios modulo="M5" aulas={["21", "22", "23", "24"]} />
+<Audios modulo="M6" aulas={["21", "22", "23", "24"]} />
 
 <p>
   Para montar um site de forma eficiente, é essencial ter o projeto consolidado

@@ -4,7 +4,7 @@
 
 <h2>O Papel dos Frameworks no Desenvolvimento</h2>
 
-<Audios modulo="M9" aulas={["05", "06", "07", "08"]} />
+<Audios modulo="M15" aulas={["05", "06", "07", "08"]} />
 
 <p>
   Um framework funciona como uma estrutura de suporte que oferece ferramentas,

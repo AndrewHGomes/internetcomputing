@@ -4,7 +4,7 @@
 
 <h2>Engenharia de Requisitos</h2>
 
-<Audios modulo="M8" aulas={["09", "10", "11", "12"]} />
+<Audios modulo="M11" aulas={["09", "10", "11", "12"]} />
 
 <p>
   A construção de um software é um processo planejado que traduz as necessidades

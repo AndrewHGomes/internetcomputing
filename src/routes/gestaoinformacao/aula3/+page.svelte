@@ -4,7 +4,7 @@
 
 <h2>A Gestão da Informação no Contexto Organizacional</h2>
 
-<Audios modulo="M2" aulas={["09", "10", "11", "12"]} />
+<Audios modulo="M14" aulas={["09", "10", "11", "12"]} />
 
 <p>
   Atualmente, vivemos na <strong>Sociedade da Informação</strong>, caracterizada

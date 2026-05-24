@@ -4,7 +4,7 @@
 
 <h2>Gerenciamento das Informações</h2>
 
-<Audios modulo="M3" aulas={["21", "22", "23", "24"]} />
+<Audios modulo="M12" aulas={["21", "22", "23", "24"]} />
 
 <p>
   A gestão das informações é essencial para apoiar decisões organizacionais e

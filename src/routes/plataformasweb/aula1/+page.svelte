@@ -4,7 +4,7 @@
 
 <h2>Introdução às Plataformas Web</h2>
 
-<Audios modulo="M10" aulas={["01", "02", "03", "04"]} />
+<Audios modulo="M8" aulas={["01", "02", "03", "04"]} />
 
 <p>
   A evolução da internet exigiu a criação de ferramentas que permitissem a

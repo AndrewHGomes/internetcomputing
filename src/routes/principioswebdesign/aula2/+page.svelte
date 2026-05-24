@@ -4,7 +4,7 @@
 
 <h2>Interface Gráfica e Dimensões Estéticas</h2>
 
-<Audios modulo="M6" aulas={["05", "06", "07", "08"]} />
+<Audios modulo="M5" aulas={["05", "06", "07", "08"]} />
 
 <p>
   A interface gráfica surge para traduzir códigos complexos em elementos visuais

@@ -4,7 +4,7 @@
 
 <h2>Introdução ao GIMP e sua Interface</h2>
 
-<Audios modulo="M5" aulas={["05", "06", "07", "08"]} />
+<Audios modulo="M6" aulas={["05", "06", "07", "08"]} />
 
 <p>
   O <strong>GIMP (GNU Image Manipulation Program)</strong> é um software gratuito

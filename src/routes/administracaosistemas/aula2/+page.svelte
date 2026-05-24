@@ -4,7 +4,7 @@
 
 <h2>Comunicação e Sabedoria</h2>
 
-<Audios modulo="M3" aulas={["05", "06", "07", "08"]} />
+<Audios modulo="M12" aulas={["05", "06", "07", "08"]} />
 
 <p>
   O processo de aprendizagem inicia-se com a captação de <strong>dados</strong>,

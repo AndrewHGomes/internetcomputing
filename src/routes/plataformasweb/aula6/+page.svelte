@@ -4,7 +4,7 @@
 
 <h2>Design de Interfaces: Fundamentos e Práticas</h2>
 
-<Audios modulo="M10" aulas={["21", "22", "23", "24"]} />
+<Audios modulo="M8" aulas={["21", "22", "23", "24"]} />
 
 <p>
   Nesta nova estapa, o foco recai sobre o design de interfaces (UI) e a

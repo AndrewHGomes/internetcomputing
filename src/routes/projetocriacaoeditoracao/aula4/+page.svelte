@@ -4,7 +4,7 @@
 
 <h2>Natureza Física do Som</h2>
 
-<Audios modulo="M5" aulas={["13", "14", "15", "16"]} />
+<Audios modulo="M6" aulas={["13", "14", "15", "16"]} />
 
 <p>
   O som é um elemento onipresente e sutil, cuja importância muitas vezes só é

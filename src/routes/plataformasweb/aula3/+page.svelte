@@ -4,7 +4,7 @@
 
 <h2>Segurança e Armazenamento na Web</h2>
 
-<Audios modulo="M10" aulas={["09", "10", "11", "12"]} />
+<Audios modulo="M8" aulas={["09", "10", "11", "12"]} />
 
 <p>
   A segurança em plataformas web é o pilar fundamental para proteger a

@@ -4,7 +4,7 @@
 
 <h2>Estrutura de Redes e Comunicação</h2>
 
-<Audios modulo="M10" aulas={["05", "06", "07", "08"]} />
+<Audios modulo="M8" aulas={["05", "06", "07", "08"]} />
 
 <p>
   Uma rede de computadores consiste em um conjunto de dispositivos

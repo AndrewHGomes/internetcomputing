@@ -4,7 +4,7 @@
 
 <h2>Sistemas</h2>
 
-<Audios modulo="M3" aulas={["01", "02", "03", "04"]} />
+<Audios modulo="M12" aulas={["01", "02", "03", "04"]} />
 
 <p>
   A introdução ao estudo de sistemas propõe um resgate da curiosidade

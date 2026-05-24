@@ -4,7 +4,7 @@
 
 <h2>Estrutura e Arquitetura de Projetos</h2>
 
-<Audios modulo="M9" aulas={["13", "14", "15", "16"]} />
+<Audios modulo="M15" aulas={["13", "14", "15", "16"]} />
 
 <p>
   A base de um aplicativo moderno é dividida em blocos coesos que separam a

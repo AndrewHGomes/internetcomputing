@@ -4,7 +4,7 @@
 
 <h2>Introdução ao Desenvolvimento Mobile</h2>
 
-<Audios modulo="M9" aulas={["01", "02", "03", "04"]} />
+<Audios modulo="M15" aulas={["01", "02", "03", "04"]} />
 
 <p>
   O crescimento do setor é impulsionado pela Indústria 4.0 e pela necessidade de

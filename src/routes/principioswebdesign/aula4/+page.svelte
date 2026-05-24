@@ -4,7 +4,7 @@
 
 <h2>Conceitos Fundamentais e Navegabilidade</h2>
 
-<Audios modulo="M6" aulas={["13", "14", "15", "16"]} />
+<Audios modulo="M5" aulas={["13", "14", "15", "16"]} />
 
 <p>
   A comunicação humana é complexa e baseada em representações simbólicas. Quando

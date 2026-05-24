@@ -4,7 +4,7 @@
 
 <h2>A Função da Cibernética: Lógica de Sistemas e Informática</h2>
 
-<Audios modulo="M3" aulas={["13", "14", "15", "16"]} />
+<Audios modulo="M12" aulas={["13", "14", "15", "16"]} />
 
 <p>
   A informática serve como suporte para processos que possuem um <strong

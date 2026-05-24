@@ -4,7 +4,7 @@
 
 <h2>Fundamentos e Arquitetura Web</h2>
 
-<Audios modulo="M10" aulas={["13", "14", "15", "16"]} />
+<Audios modulo="M8" aulas={["13", "14", "15", "16"]} />
 
 <p>
   O acesso às páginas na internet ocorre através da conversão de uma

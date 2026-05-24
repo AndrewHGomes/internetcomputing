@@ -4,7 +4,7 @@
 
 <h2>Modelagem de Sistemas e Processos de Negócio</h2>
 
-<Audios modulo="M8" aulas={["01", "02", "03", "04"]} />
+<Audios modulo="M11" aulas={["01", "02", "03", "04"]} />
 
 <p>
   A <strong>Modelagem de Sistemas</strong> é a disciplina que traduz as necessidades

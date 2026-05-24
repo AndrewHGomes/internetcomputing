@@ -4,7 +4,7 @@
 
 <h2>Análise Estruturada</h2>
 
-<Audios modulo="M12" aulas={["09", "10", "11", "12"]} />
+<Audios modulo="M10" aulas={["09", "10", "11", "12"]} />
 
 <p>
   O desenvolvimento de sistemas exige condições técnicas específicas para

@@ -4,7 +4,7 @@
 
 <h2>Organização dos Processos de Negócios</h2>
 
-<Audios modulo="M13" aulas={["17", "18", "19", "20"]} />
+<Audios modulo="M17" aulas={["17", "18", "19", "20"]} />
 
 <p>
   O sucesso do comércio eletrônico depende de um <strong>backoffice</strong> estruturado.

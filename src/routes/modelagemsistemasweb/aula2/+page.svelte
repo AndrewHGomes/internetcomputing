@@ -4,7 +4,7 @@
 
 <h2>Análise e Modelagem de Sistemas</h2>
 
-<Audios modulo="M8" aulas={["05", "06", "07", "08"]} />
+<Audios modulo="M11" aulas={["05", "06", "07", "08"]} />
 
 <p>
   A <strong>Análise de Sistemas</strong> é a disciplina fundamental para traduzir

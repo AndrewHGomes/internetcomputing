@@ -4,7 +4,7 @@
 
 <h2>Interface e Organização Visual</h2>
 
-<Audios modulo="M6" aulas={["09", "10", "11", "12"]} />
+<Audios modulo="M5" aulas={["09", "10", "11", "12"]} />
 
 <p>
   A interface gráfica de um site utiliza dimensões do design para organizar

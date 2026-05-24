@@ -4,7 +4,7 @@
 
 <h2>Segurança da Informação e Gestão Estratégica</h2>
 
-<Audios modulo="M2" aulas={["17", "18", "19", "20"]} />
+<Audios modulo="M14" aulas={["17", "18", "19", "20"]} />
 
 <p>
   A <strong>gestão da informação</strong> é um processo dinâmico e contínuo,

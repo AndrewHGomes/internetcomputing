@@ -4,7 +4,7 @@
 
 <h2>Diagrama de Classes (UML)</h2>
 
-<Audios modulo="M8" aulas={["17", "18", "19", "20"]} />
+<Audios modulo="M11" aulas={["17", "18", "19", "20"]} />
 
 <p>
   O desenvolvimento de software não é uma tarefa trivial, exigindo a tradução de
