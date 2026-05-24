@@ -229,6 +229,7 @@
   aside {
     height: 100vh;
     overflow-y: auto;
+    overflow-x: hidden;
     scrollbar-width: none;
     background-color: #444;
     flex: 0 0 280px;
@@ -266,7 +267,6 @@
     width: 100%;
     display: flex;
     flex-direction: column;
-    overflow: hidden;
   }
 
   aside div a {
